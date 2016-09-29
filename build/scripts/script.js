@@ -1,0 +1,1 @@
+function hi(){}function hello(){}function bye(){}var a=5,b=10,c=a+b;hi(),hello(),bye();
